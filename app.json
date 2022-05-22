@@ -1,1 +1,12 @@
-
+{
+  "name": "botalphamd2",
+  "description": "Multi Device WhatsApp Bot",
+  "repository": "https://github.com/ngasanaawan11/botalphamd2",
+  "logo": "https://www.tanjunglesung.com/wp-content/uploads/2018/12/logo-wa-whatsapp.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot",
+    "multi-device whatsapp bot"
+  ]
+}
